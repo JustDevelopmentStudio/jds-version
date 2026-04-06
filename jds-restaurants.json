@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.0.0",
   "title": "JDS Restaurants",
   "updates": [
     "Added unattended order processing",
@@ -11,5 +11,5 @@
     "server/main.lua",
     "client/duty_appearance.lua"
   ],
-  "url": "https://github.com/JustDevelopmentStudio/jds-version"
+  "url": "https://portal.cfx.re/granted-assets"
 }
