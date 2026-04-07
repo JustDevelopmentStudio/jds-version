@@ -2,14 +2,10 @@
   "version": "1.0.0",
   "title": "JDS Restaurants",
   "updates": [
-    "Added unattended order processing",
-    "Added society account support",
-    "Improved notification styling"
+
   ],
   "files": [
-    "shared/config.lua",
-    "server/main.lua",
-    "client/duty_appearance.lua"
+
   ],
-  "url": "https://portal.cfx.re/granted-assets"
+  "url": "https://portal.cfx.re/assets/granted-assets"
 }
